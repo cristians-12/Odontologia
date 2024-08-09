@@ -12,7 +12,7 @@ export default function Home() {
         </div>
       </section>
       <figure className="w-[90%]">
-        <Image className="object-contain" src={'/img.png'} width={900} height={900} />
+        <Image className="object-contain" src={'/img.png'} width={900} height={900} alt="image1" />
       </figure>
     </main>
   )
